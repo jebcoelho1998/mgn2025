@@ -1,0 +1,15 @@
+com\upacademy\mng2025\repo\JDBCShelfRepository.class
+com\upacademy\mng2025\repo\ShelfRepository.class
+com\upacademy\mng2025\api\App.class
+com\upacademy\mng2025\controller\ProductController.class
+com\upacademy\mng2025\api\PingResource.class
+com\upacademy\mng2025\repo\JDBCProductRepository.class
+com\upacademy\mng2025\entity\Product.class
+com\upacademy\mng2025\app\Main.class
+com\upacademy\mng2025\repo\ProductRepository.class
+com\upacademy\mng2025\app\DB.class
+com\upacademy\mng2025\entity\Shelf.class
+com\upacademy\mng2025\api\SQLExceptionMapper.class
+com\upacademy\mng2025\controller\ShelfController.class
+com\upacademy\mng2025\api\CorsFilter.class
+com\upacademy\mng2025\util\JPAUtil.class
